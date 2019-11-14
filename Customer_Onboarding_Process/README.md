@@ -20,3 +20,9 @@ I wrote a code in Python to connect to Pipefy (via its API) and manipulate data 
 **Results**
 
 Now the Customer Onboarding Team has a tool where they can identify or predict the process bottleneck. Also the 360º view for each customer allow better planning making the team more efficient.
+
+Customer Onboarding Process - Dashboard
+![alt text](./1_Dashview_CustomerOnboardingProcess.png)
+
+360º view for each customer
+![alt text](./1_360view_per_customer.png)
