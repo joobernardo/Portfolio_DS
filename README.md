@@ -1,6 +1,6 @@
 # Portfolio_DS
 
-**CustomerOnboardingProcess.ipynb**
+**Customer_Onboarding_Process**
 
-A python script that runs in PowerBI. It connects PowerBI-Pipefy via API and manipulate data aiming the identification/prediction of the processes bottlenecks.
+A python script that runs in PowerBI to connect PowerBI-Pipefy via API and manipulate data aiming the identification/prediction of the processes bottlenecks.
 
