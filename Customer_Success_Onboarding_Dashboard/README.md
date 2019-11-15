@@ -1,0 +1,14 @@
+Situation
+
+
+
+Task
+
+
+
+Action
+
+
+
+Results
+
