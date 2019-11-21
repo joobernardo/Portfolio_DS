@@ -4,15 +4,9 @@ my_url_API = "https://api.airtable.com/v0/URLXXXX"
 my_token_TOKEN = "Bearer KEYXXXX"
 
 # Importing libraries
-import matplotlib.pyplot as plt
-import plotly.graph_objects as go
 import sys
 import requests
 import pandas as pd
-import datetime
-import numpy as np
-import seaborn as sns
-#from datetime import *
 
 # Python and Airtable - API connection
 fetch = True
