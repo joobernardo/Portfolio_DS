@@ -3,7 +3,7 @@ from automagica import *
 # Opening scripts to get data from databases by SQL and Posgresql queries
 display_osd_message(message='Atualizando csv', seconds=5)
 press_key_combination('win', 'r')
-task = r'C:\filepath\ScriptName.py'
+task = r'C:\filepath\GetData_PythonScripts.py'
 set_to_clipboard(task)
 press_key("backspace")
 press_key_combination('ctrl', 'v')
